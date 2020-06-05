@@ -24,3 +24,28 @@ A aplicação tem como objetivo disponibilizar locais pontos de coletas, tais co
 
 
 <h6>* Para verificar as tecnologias mais detalhadamente, acesse o package.json</h6>
+
+
+<h2>Sobre as Dependências:</h2>
+Clone esse repositório e instale e/ou execute (pelo terminal):
+
+<h3> Na API Server: </h3>
+
+As dependências (instale): npm install <br>
+As migrates (execute): npm knex:migrate <br>
+Os seeds (execute): npm knex:seed <br>
+Para executar o server (execute): npm run dev <br>
+Obs: será executada na porta 3333
+
+
+<h3> No Front-End: </h3>
+As dependências (instale): npm install <br>
+Para executar o front-end (execute):  npm start
+Obs: será executada na porta: 3000
+
+
+<h3> No Mobile: </h3>
+As dependências (instale): npm install <br>
+Para executar o mobile (execute):  npm start
+Obs: o expo irá abrir no browser com um QRCode, então será preciso ter baixado o app Expo para fazer a escaneação.
+Obs: Para instalar as fontes (execute): expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
