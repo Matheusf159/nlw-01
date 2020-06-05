@@ -46,6 +46,6 @@ Obs: será executada na porta: 3000
 
 <h3> No Mobile: </h3>
 As dependências (instale): npm install <br>
-Para executar o mobile (execute):  npm start
-Obs: o expo irá abrir no browser com um QRCode, então será preciso ter baixado o app Expo para fazer a escaneação.
+Para executar o mobile (execute):  npm start. <br>
+Obs: o expo irá abrir no browser com um QRCode, então será preciso ter baixado o app Expo para fazer a escaneação. <br>
 Obs: Para instalar as fontes (execute): expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
