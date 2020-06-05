@@ -26,7 +26,7 @@ A aplicação tem como objetivo disponibilizar locais pontos de coletas, tais co
 <h6>* Para verificar as tecnologias mais detalhadamente, acesse o package.json</h6>
 
 
-<h2>Sobre as Dependências:</h2>
+<h2>:pushpin: Sobre as Dependências:</h2>
 Clone esse repositório e instale e/ou execute (pelo terminal):
 
 <h3> Na API Server: </h3>
