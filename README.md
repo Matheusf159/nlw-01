@@ -40,7 +40,7 @@ Obs: será executada na porta 3333
 
 <h3> No Front-End: </h3>
 As dependências (instale): npm install <br>
-Para executar o front-end (execute):  npm start
+Para executar o front-end (execute):  npm start <br>
 Obs: será executada na porta: 3000
 
 
