@@ -15,7 +15,7 @@ A aplicação tem como objetivo disponibilizar locais pontos de coletas, tais co
 <img src="/.github/mobile.png" width="500" height="750"/> 
 
 
-<h2><strong>:satellite: Tecnologias*</strong></h2>
+<h2><strong>:satellite: Tecnologias</strong></h2>
 <h3>Versão Web: React + TypeScript</h3>
 
 <h3>Versão Mobile: React-Native + TypeScript</h3>
